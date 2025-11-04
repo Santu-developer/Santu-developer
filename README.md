@@ -36,18 +36,25 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santu_developer&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santu-developer&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Santu_developer&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Santu-developer&show_icons=true&locale=en" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santu_developer&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santu-developer&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-<!-- Highlight your best project here -->
-<h3 align="center">Featured Project</h3>
+<h3 align="center">🌟 Featured Portfolio</h3>
 <p align="center">
-  <a href="https://github.com/Santu_developer/KrishiVote"><strong>KrishiVote: Farmer Decision & Voting Platform</strong></a><br>
+  <a href="https://my-webfolio-site.netlify.app/" target="_blank"><strong>Visit My Professional Portfolio</strong></a><br>
+  <i>Explore my projects, tech stack, experience & more in detail.</i>
+</p>
+
+---
+
+<h3 align="center">Other Projects</h3>
+<p align="center">
+  <a href="https://github.com/Santu-developer/KrishiVote"><strong>KrishiVote: Farmer Decision & Voting Platform</strong></a><br>
   <i>Enabling collaborative crop decisions & polls for Indian farmers. Built with Spring Boot & React.</i>
 </p>
