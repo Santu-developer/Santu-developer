@@ -40,7 +40,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Santu-developer&show_icons=true&locale=en" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santu-developer&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Santu-developer&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
