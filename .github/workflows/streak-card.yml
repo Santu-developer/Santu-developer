@@ -1,0 +1,27 @@
+name: Update Streak Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 18 * * *"  # daily (UTC)
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Download streak SVG
+        run: |
+          mkdir -p assets
+          curl -L "https://streak-stats.demolab.com/?user=Santu-developer&theme=tokyonight&hide_border=true" \
+            -o assets/github-streak.svg
+
+      - name: Commit and push (if changed)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update streak card"
+          file_pattern: assets/github-streak.svg
