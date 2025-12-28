@@ -3,19 +3,16 @@ name: Generate GitHub Stats Card
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 18 * * *"  # daily (UTC)
+    - cron: "15 18 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  stats:
     runs-on: ubuntu-latest
-    env:
-      GH_TOKEN: ${{ github.token }}
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v5
+      - uses: actions/checkout@v5
 
       - name: Generate stats card
         uses: cicirello/user-statistician@v1
@@ -25,4 +22,5 @@ jobs:
           commit-and-push: "true"
           commit-message: "chore: update GitHub analytics card"
           args: "--user Santu-developer --theme dark"
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
