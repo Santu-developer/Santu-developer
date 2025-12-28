@@ -1,0 +1,27 @@
+name: Generate GitHub Stats Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 18 * * *"  # daily (UTC). India time ~11:45 PM IST
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate stats card
+        uses: cicirello/user-statistician@v1
+        with:
+          user: Santu-developer
+          themed: true
+          theme: dark
+          image-file: assets/github-analytics.svg
+
+      - name: Commit and push (if changed)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub analytics card"
+          file_pattern: assets/github-analytics.svg
