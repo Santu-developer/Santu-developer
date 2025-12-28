@@ -145,9 +145,7 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api?username=Santu-developer&show_icons=true&theme=tokyonight&hide_border=true"
-       alt="GitHub Stats"/>
+
 
   <img width="48%"
        src="https://github-readme-streak-stats.herokuapp.com/?user=Santu-developer&theme=tokyonight&hide_border=true"
@@ -155,16 +153,10 @@
 </p>
 
 <p align="center">
-  <img width="42%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-       alt="Top Languages"/>
+  <img src="./assets/github-analytics.svg" alt="GitHub Analytics" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Santu-developer&theme=tokyonight&no-frame=true&column=6&margin-w=12"
-    alt="GitHub Trophies"/>
-</p>
+
 
 <hr/>
 
