@@ -145,7 +145,7 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img width="48%" src="./assets/github-streak.svg" alt="GitHub Streak" />
+ 
   <img width="48%" src="./assets/github-analytics.svg" alt="GitHub Analytics" />
 </p>
 
