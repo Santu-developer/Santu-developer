@@ -3,7 +3,7 @@ name: Generate GitHub Stats Card
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 18 * * *"  # daily (UTC). India time ~11:45 PM IST
+    - cron: "15 18 * * *"
 
 permissions:
   contents: write
@@ -12,6 +12,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+
       - name: Generate stats card
         uses: cicirello/user-statistician@v1
         with:
