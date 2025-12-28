@@ -169,30 +169,48 @@
 
 <h3 align="center">🎯 What I'm Working On</h3>
 
-<div align="center">
+### 👨‍💻 Current Role
+- **Full Stack Developer @ Sonnen Tech**
+- Building enterprise-grade applications using **Spring Boot & React**
 
-```javascript
-const santosh = {
-    currentRole: "Full Stack Developer @ Sonnen Tech",
-    workingOn: [
-        "Enterprise web applications with Spring Boot & React",
-        "Microservices architecture & system design",
-        "Cloud-native applications on AWS"
-    ],
-    learning: [
-        "Apache Kafka for event-driven architecture",
-        "Kubernetes for container orchestration",
-        "System Design & Scalability patterns",
-        "Advanced Spring Boot features"
-    ],
-    technologies: {
-        backend: ["Java", "Spring Boot", "Hibernate", "MySQL", "REST APIs"],
-        frontend: ["React", "JavaScript", "TypeScript", "Bootstrap"],
-        devOps: ["Docker", "AWS", "Git", "Linux"],
-        tools: ["Maven", "Gradle", "Postman", "VS Code", "IntelliJ IDEA"]
-    },
-    goal2024: "Build production-grade microservices & contribute to open source"
-}
+---
+
+### 🚀 Actively Working On
+- Scalable **Spring Boot + React** applications  
+- **Microservices architecture** & REST API design  
+- Cloud-native deployments on **AWS & Docker**
+
+---
+
+### 📚 Currently Learning
+- **Apache Kafka** – event-driven systems  
+- **Kubernetes** – container orchestration  
+- **System Design** – scalability & performance  
+- Advanced **Spring Boot internals**
+
+---
+
+### 🛠️ Tech Focus
+**Backend**
+- Java 17+, Spring Boot, Hibernate, REST APIs  
+- MySQL, MongoDB, Redis  
+
+**Frontend**
+- React, JavaScript, TypeScript  
+- Bootstrap, Tailwind CSS, Framer Motion  
+
+**DevOps & Tools**
+- Docker, AWS (EC2, S3), Linux  
+- Git, Maven, Gradle, Postman  
+- IntelliJ IDEA, VS Code  
+
+---
+
+### 🎯 2024–2025 Goals
+- Build **production-ready microservices**
+- Improve **system design depth**
+- Contribute to **open source Java projects**
+
 ```
 
 </div>
