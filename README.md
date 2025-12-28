@@ -143,17 +143,27 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Santu-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Santu-developer&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api?username=Santu-developer&show_icons=true&theme=tokyonight&hide_border=true" 
+       alt="GitHub Stats"/>
+  
+  <img width="49%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Santu-developer&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Santu-developer&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="42%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+       alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santu-developer&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Santu-developer&theme=tokyonight&no-frame=true&column=6&margin-w=12" 
+    alt="GitHub Trophies"/>
 </p>
+
 
 ---
 
