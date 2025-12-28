@@ -138,59 +138,30 @@
 
 </div>
 
----
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=Santu-developer&show_icons=true&theme=tokyonight&hide_border=true" 
-       alt="GitHub Stats"/>
-  
-  <img width="49%" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Santu-developer&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="42%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-       alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Santu-developer&theme=tokyonight&no-frame=true&column=6&margin-w=12" 
-    alt="GitHub Trophies"/>
-</p>
-
-
----
+<hr/>
 
 <h3 align="center">🎯 What I'm Working On</h3>
 
-### 👨‍💻 Current Role
+<h4>👨‍💻 Current Role</h4>
+
 - **Full Stack Developer @ Sonnen Tech**
 - Building enterprise-grade applications using **Spring Boot & React**
 
----
+<h4>🚀 Actively Working On</h4>
 
-### 🚀 Actively Working On
 - Scalable **Spring Boot + React** applications  
 - **Microservices architecture** & REST API design  
 - Cloud-native deployments on **AWS & Docker**
 
----
+<h4>📚 Currently Learning</h4>
 
-### 📚 Currently Learning
 - **Apache Kafka** – event-driven systems  
 - **Kubernetes** – container orchestration  
 - **System Design** – scalability & performance  
 - Advanced **Spring Boot internals**
 
----
+<h4>🛠️ Tech Focus</h4>
 
-### 🛠️ Tech Focus
 **Backend**
 - Java 17+, Spring Boot, Hibernate, REST APIs  
 - MySQL, MongoDB, Redis  
@@ -204,61 +175,55 @@
 - Git, Maven, Gradle, Postman  
 - IntelliJ IDEA, VS Code  
 
----
+<h4>🎯 2024–2025 Goals</h4>
 
-### 🎯 2024–2025 Goals
 - Build **production-ready microservices**
 - Improve **system design depth**
-- Contribute to **open source Java projects**
+- Contribute to **open-source Java projects**
 
-```
-
-</div>
-
----
+<hr/>
 
 <h3 align="center">📈 Contribution Graph</h3>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santu-developer&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Santu-developer&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"/>
 </p>
 
----
+<hr/>
 
 <h3 align="center">🌟 Highlighted Achievements</h3>
 
-<div align="center">
+<p align="center">
+✅ Built <b>Energy Analytics Platform</b> handling <b>10,000+ daily data points</b><br/>
+✅ Optimized backend queries achieving <b>50% performance improvement</b><br/>
+✅ Deployed <b>production-grade applications</b> on AWS & Netlify<br/>
+✅ Developed <b>20+ REST APIs</b> with JWT authentication<br/>
+✅ Supported <b>500+ concurrent users</b> with scalable architecture
+</p>
 
-✅ Built **Energy Analytics Platform** handling **10,000+ daily data points**  
-✅ Optimized backend queries achieving **50% performance improvement**  
-✅ Deployed **production-grade applications** on **AWS & Netlify**  
-✅ Developed **20+ REST APIs** with JWT authentication  
-✅ Improved **mobile adoption by 45%** through responsive design  
-✅ Successfully managed **500+ concurrent users** with load balancing  
-
-</div>
-
----
+<hr/>
 
 <h3 align="center">📫 Get In Touch</h3>
 
-<div align="center">
-
-💼 **Professional Portfolio:** [my-webfolio-site.netlify.app](https://my-webfolio-site.netlify.app/)  
-📧 **Email:** santoshpatidar.dev@gmail.com  
-💻 **LinkedIn:** [linkedin.com/in/santosh-patidar-a89651259](https://www.linkedin.com/in/santosh-patidar-a89651259/)  
-🌐 **GitHub:** [github.com/Santu-developer](https://github.com/Santu-developer)  
-
-**💡 Open to new opportunities and collaborations!**
-
-</div>
-
----
+<p align="center">
+🌐 <b>Portfolio:</b>
+<a href="https://santu-developer.github.io/my-webfolio/">my-webfolio</a><br/>
+💼 <b>LinkedIn:</b>
+<a href="https://www.linkedin.com/in/santosh-patidar-a89651259/">Santosh Patidar</a><br/>
+📧 <b>Email:</b> santoshpatidar.dev@gmail.com<br/>
+💻 <b>GitHub:</b>
+<a href="https://github.com/Santu-developer">Santu-developer</a>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Santu-developer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Santu-developer?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Santu-developer&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/Santu-developer?label=Followers&style=social"/>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</div>
+
 </div>
