@@ -140,6 +140,34 @@
 
 <hr/>
 
+
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api?username=Santu-developer&show_icons=true&theme=tokyonight&hide_border=true"
+       alt="GitHub Stats"/>
+
+  <img width="48%"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Santu-developer&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="42%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santu-developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+       alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Santu-developer&theme=tokyonight&no-frame=true&column=6&margin-w=12"
+    alt="GitHub Trophies"/>
+</p>
+
+<hr/>
+
 <h3 align="center">🎯 What I'm Working On</h3>
 
 <h4>👨‍💻 Current Role</h4>
@@ -159,21 +187,6 @@
 - **Kubernetes** – container orchestration  
 - **System Design** – scalability & performance  
 - Advanced **Spring Boot internals**
-
-<h4>🛠️ Tech Focus</h4>
-
-**Backend**
-- Java 17+, Spring Boot, Hibernate, REST APIs  
-- MySQL, MongoDB, Redis  
-
-**Frontend**
-- React, JavaScript, TypeScript  
-- Bootstrap, Tailwind CSS, Framer Motion  
-
-**DevOps & Tools**
-- Docker, AWS (EC2, S3), Linux  
-- Git, Maven, Gradle, Postman  
-- IntelliJ IDEA, VS Code  
 
 <h4>🎯 2024–2025 Goals</h4>
 
@@ -200,7 +213,7 @@
 ✅ Optimized backend queries achieving <b>50% performance improvement</b><br/>
 ✅ Deployed <b>production-grade applications</b> on AWS & Netlify<br/>
 ✅ Developed <b>20+ REST APIs</b> with JWT authentication<br/>
-✅ Supported <b>500+ concurrent users</b> with scalable architecture
+✅ Successfully supported <b>500+ concurrent users</b>
 </p>
 
 <hr/>
