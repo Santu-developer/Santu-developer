@@ -58,7 +58,7 @@
   <tr>
     <td width="50%" align="center">
       <h4>🌐 Professional Portfolio Website</h4>
-      <a href="https://my-webfolio-site.netlify.app/" target="_blank">
+      <a href="https://santu-developer.github.io/my-webfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
       <p><b>Tech:</b> React 18, Vite, Framer Motion, Bootstrap 5, Netlify</p>
