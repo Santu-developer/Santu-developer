@@ -23,7 +23,7 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://my-webfolio-site.netlify.app/" target="_blank">
+  <a href="https://santu-developer.github.io/my-webfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/santosh-patidar-a89651259/" target="_blank">
